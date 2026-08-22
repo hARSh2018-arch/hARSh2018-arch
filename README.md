@@ -2,7 +2,7 @@
 
 <!-- LIVE ANIMATED BANNER — upload hero-banner.svg to /assets/hero-banner.svg in this repo,
      then this relative path resolves. Embers rise, title glow pulses, slash sweeps on loop. -->
-<img src="./assets/hero-banner.svg" width="100%"/>
+   <img src="./assets/hero-banner.svg" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hARSh2018-arch&label=TIMES+SEEN&color=D62828&style=for-the-badge&labelColor=1A0500)
 ![Followers](https://img.shields.io/github/followers/hARSh2018-arch?label=DISCIPLES&style=for-the-badge&color=FCA311&labelColor=1A0500)
