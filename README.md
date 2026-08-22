@@ -1,118 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0500,50:D62828,100:FCA311&height=220&section=header&text=日ノ呼吸&fontSize=70&fontColor=FFF3E0&animation=fadeIn&fontAlignY=32&desc=SUN%20BREATHING%20/%20hARSh's%20DEV%20LOG&descAlignY=52&descSize=18&descColor=ffb703" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1A0500,40:D62828,70:F77F00,100:FCA311&height=260&section=header&text=日ノ呼吸&fontSize=95&fontColor=FFF3E0&animation=twinkling&fontAlignY=38&desc=THE%20ORIGIN%20TECHNIQUE%20%E2%80%94%20ALL%20BREATHING%20STYLES%20TRACE%20BACK%20TO%20THIS&descAlignY=62&descSize=17&descColor=ffb703" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=FCA311&center=true&vCenter=true&width=650&lines=%3E+dance_first_form%3A+erosion;%3E+compiling+ML+models+like+13+kata;%3E+quant.exe+%2B+ai.exe+%2B+f1_telemetry.exe;%3E+total_concentration%3A+constant" />
+```
+        ⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣿⣿⣿⣶⣦⣄⡀⠀⠀⠀⠀⠀
+        ⠀⠀⠀⢀⣴⣿⡿⠛⠉⠁⠀⠈⠉⠛⢿⣿⣦⡀⠀⠀⠀
+        ⠀⠀⣴⣿⡟⠁⠀⠀⠀▲ 十三ノ型 ▲⠀⠀⠈⢻⣿⣦⠀⠀
+        ⠀⣸⣿⠏⠀⠀⠀⠀⠀ NICHIRIN ⠀⠀⠀⠀⠹⣿⣇⠀
+        ⣿⣿⠀⠀⠀⠀⠀ ACTIVE ⠀ COMMIT ⠀⠀⠀⠀⣿⣿
+        ⠘⣿⣧⡀⠀⠀⠀⠀⠀ BLADE ⠀⠀⠀⠀⢀⣼⣿⠃⠀
+        ⠀⠀⠻⣿⣦⡀⠀⠀⠀⠀ ⠀⠀⠀⠀⣠⣾⣿⠟⠀⠀⠀
+        ⠀⠀⠀⠀⠙⠻⢿⣿⣶⣶⣶⣶⣿⡿⠟⠋⠀⠀⠀⠀⠀
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2200&pause=800&color=FCA311&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%E2%98%80+SUN+BREATHING+%E2%80%94+DANCE;first_form%3A+erosion+%7C%7C+ninth_form%3A+lucent+splendor;%3E+compiling+models+like+13+kata;%3E+total_concentration%3A+CONSTANT" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hARSh2018-arch&label=TIMES+SEEN&color=D62828&style=for-the-badge&labelColor=1A0500)
+![Followers](https://img.shields.io/github/followers/hARSh2018-arch?label=DISCIPLES&style=for-the-badge&color=FCA311&labelColor=1A0500)
+![Status](https://img.shields.io/badge/STATUS-BREATHING-D62828?style=for-the-badge&labelColor=1A0500)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
 
-## `壱ノ型 — 円舞` // ABOUT
+## 「壱ノ型」— ABOUT THE WIELDER
 
 ```yaml
 name: Harsh
-role: ML/AI Engineer (2nd yr) @ SRM University | Quant-track
+role: ML/AI Engineer (2nd yr) @ SRM University ▸ Quant-track
 current_focus: Building "R" — a JARVIS-style AI assistant
-breathing_style: Sun — origin technique, every other style traces back to this
+breathing_style: Sun — the origin, the strongest, the one all others copied
+philosophy: >
+  "Set your heart ablaze. The weak get eaten. Grind quietly, strike decisively."
 techniques:
-  - dance: "Foundations (DSA — Striver A2Z, NeetCode 150)"
-  - clear_blue_sky: "ML/AI systems (XGBoost, PyTorch, LSTM)"
-  - burning_bones_summer_sun: "F1 race-strategy prediction (APEX AI)"
-  - sunflower_thrust: "Quant-focused ML engineering + quantum research edge"
-target_squads: ["JPMorgan Code for Good", "Jane Street", "Citadel Securities", "Optiver", "HRT"]
+  - 壱ノ型 (Dance):            Foundations — Striver A2Z, NeetCode 150
+  - 弐ノ型 (Clear Blue Sky):    ML/AI systems — XGBoost, PyTorch, LSTM
+  - 漆ノ型 (Burning Bones):     F1 race-strategy prediction — APEX AI
+  - 玖ノ型 (Lucent Splendor):   Quant-track ML engineering + quantum edge
+target_squads: [JPMorgan Code for Good, Jane Street, Citadel Securities, Optiver, HRT]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
 
-## `弐ノ型 — 燃血` // TECH ARSENAL
+## 「弐ノ型」— WEAPON LOADOUT
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-1A0500?style=for-the-badge&logo=python&logoColor=FCA311)
-![C++](https://img.shields.io/badge/-C++-1A0500?style=for-the-badge&logo=cplusplus&logoColor=FCA311)
-![PyTorch](https://img.shields.io/badge/-PyTorch-1A0500?style=for-the-badge&logo=pytorch&logoColor=FCA311)
-![XGBoost](https://img.shields.io/badge/-XGBoost-1A0500?style=for-the-badge&logo=xgboost&logoColor=FCA311)
-![FastAPI](https://img.shields.io/badge/-FastAPI-1A0500?style=for-the-badge&logo=fastapi&logoColor=FCA311)
-![React](https://img.shields.io/badge/-React-1A0500?style=for-the-badge&logo=react&logoColor=FCA311)
-![LangChain](https://img.shields.io/badge/-LangChain-1A0500?style=for-the-badge&logo=langchain&logoColor=FCA311)
-![Docker](https://img.shields.io/badge/-Docker-1A0500?style=for-the-badge&logo=docker&logoColor=FCA311)
+![Python](https://img.shields.io/badge/PYTHON-1A0500?style=for-the-badge&logo=python&logoColor=FCA311)
+![Cpp](https://img.shields.io/badge/C++-1A0500?style=for-the-badge&logo=cplusplus&logoColor=FCA311)
+![PyTorch](https://img.shields.io/badge/PYTORCH-1A0500?style=for-the-badge&logo=pytorch&logoColor=FCA311)
+![XGBoost](https://img.shields.io/badge/XGBOOST-1A0500?style=for-the-badge&logo=xgboost&logoColor=FCA311)
+![FastAPI](https://img.shields.io/badge/FASTAPI-1A0500?style=for-the-badge&logo=fastapi&logoColor=FCA311)
+![React](https://img.shields.io/badge/REACT-1A0500?style=for-the-badge&logo=react&logoColor=FCA311)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1A0500?style=for-the-badge&logo=langchain&logoColor=FCA311)
+![Docker](https://img.shields.io/badge/DOCKER-1A0500?style=for-the-badge&logo=docker&logoColor=FCA311)
+![Groq](https://img.shields.io/badge/GROQ-1A0500?style=for-the-badge&logo=lightning&logoColor=FCA311)
+![Git](https://img.shields.io/badge/GIT-1A0500?style=for-the-badge&logo=git&logoColor=FCA311)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
 
-## `漆ノ型 — 灼熱` // FEATURED PROJECTS
+## 「漆ノ型」— BATTLE LOG // FEATURED KILLS
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 APEX AI
-Real-time F1 race-strategy engine. 19 ML algorithms benchmarked on tyre degradation, pit timing, weather, safety-car probability.
+### 🔥 APEX AI — `S-RANK`
+Real-time F1 race-strategy engine. **19 ML algorithms** benchmarked head-to-head across tyre degradation, pit timing, weather, safety-car probability.
 `Python` `FastF1` `XGBoost` `PyTorch` `ONNX` `Raspberry Pi`
+> *"Struck the void where 18 other models missed."*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 R (formerly CIPHER)
-JARVIS-style personal AI assistant — terminal/holographic UI, Groq (llama-3.3-70b) backend, voice + system control in progress.
+### 🔥 R — `IN PROGRESS`
+JARVIS-style AI assistant. Terminal/holographic UI, Groq (`llama-3.3-70b`) backend. Voice input + system control: next form to master.
 `Groq API` `WebAudio` `System Control`
+> *"Not yet complete. The blade is still being forged."*
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 KISAAN
-Applied ML project — full stack from data pipeline to deployment.
+### 🔥 KISAAN — `DEPLOYED`
+Full-stack applied ML — pipeline to deployment, no wasted motion.
 `Python` `ML` `Full-stack`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔥 Quant Trading Lab
-Quant strategy research and backtesting sandbox — the entry point into the quant-track.
+### 🔥 Quant Trading Lab — `TRAINING GROUNDS`
+Strategy research + backtesting sandbox. Entry point into the quant-track.
 `Python` `Quant` `Backtesting`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
 
-## `拾ノ型 — 幻日紅` // STATS (NEVER FADING)
+## 「拾ノ型」— POWER LEVEL (NEVER FADING)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hARSh2018-arch&show_icons=true&theme=react&bg_color=1A0500&title_color=FCA311&icon_color=FCA311&text_color=ffb703&border_color=D62828&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hARSh2018-arch&theme=react&background=1A0500&stroke=D62828&ring=FCA311&fire=FCA311&currStreakLabel=FCA311&sideLabels=ffb703&dates=ffb703&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hARSh2018-arch&show_icons=true&theme=react&bg_color=1A0500&title_color=FCA311&icon_color=D62828&text_color=ffb703&border_color=D62828&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hARSh2018-arch&theme=react&background=1A0500&stroke=D62828&ring=FCA311&fire=D62828&currStreakLabel=FCA311&sideLabels=ffb703&dates=ffb703&hide_border=false" width="49%"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hARSh2018-arch&layout=compact&theme=react&bg_color=1A0500&title_color=FCA311&text_color=ffb703&border_color=D62828&hide_border=false" width="45%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hARSh2018-arch&theme=matrix&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="90%"/>
+</div>
 
-## `拾参ノ型 — 日暈の龍` // ACTIVITY
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
+
+## 「拾参ノ型」— DEMON SLAYER MARK (ACTIVITY)
 
 <div align="center">
 
-<!-- Reskin your existing Snake/Pac-Man/Galaga action to flame palette (see note below) -->
+<!-- Point Platane/snk output at these hex codes: dark=#1A0500 dots=#D62828,#F77F00,#FCA311 -->
 <img src="https://raw.githubusercontent.com/hARSh2018-arch/hARSh2018-arch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0500,100:D62828&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=6&width=100%" />
 
-## `終ノ型` // CONNECT
+## 「終ノ型」— SUMMON ME
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1A0500?style=for-the-badge&logo=vercel&logoColor=FCA311)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A0500?style=for-the-badge&logo=linkedin&logoColor=FCA311)](#)
-[![Mail](https://img.shields.io/badge/-Mail-1A0500?style=for-the-badge&logo=gmail&logoColor=FCA311)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1A0500?style=for-the-badge&logo=vercel&logoColor=FCA311)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A0500?style=for-the-badge&logo=linkedin&logoColor=FCA311)](#)
+[![Mail](https://img.shields.io/badge/MAIL-1A0500?style=for-the-badge&logo=gmail&logoColor=FCA311)](#)
+
+<br/><br/>
+
+**`"燃えて生きろ" — set your heart ablaze and live.`**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCA311,50:D62828,100:1A0500&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FCA311,40:F77F00,70:D62828,100:1A0500&height=160&section=footer" width="100%"/>
