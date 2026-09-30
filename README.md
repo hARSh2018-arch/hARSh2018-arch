@@ -101,6 +101,22 @@ Strategy research and backtesting sandbox — entry point into the quant-track.
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=4&width=100%" />
 
+## 💻 Coding Activity
+
+### 🟧 LeetCode
+
+<div align="center">
+  <img src="assets/leetcode-contribution.svg" alt="LeetCode Contribution Graph" width="100%" />
+</div>
+
+### 🟩 HackerRank
+
+<div align="center">
+  <img src="assets/hackerrank-contribution.svg" alt="HackerRank Contribution Graph" width="100%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1A0500,100:D62828&height=4&width=100%" />
+
 ## `> ACTIVITY GRID`
 
 <div align="center">

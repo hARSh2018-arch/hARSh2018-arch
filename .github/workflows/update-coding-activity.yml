@@ -1,0 +1,65 @@
+name: Update Coding Activity Graphs
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      leetcode_user:
+        description: 'LeetCode Username (optional override)'
+        required: false
+        type: string
+      hackerrank_user:
+        description: 'HackerRank Username (optional override)'
+        required: false
+        type: string
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-coding-activity.yml'
+      - 'config.json'
+
+permissions:
+  contents: write
+
+jobs:
+  update-graphs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch activity and generate contribution heatmaps
+        env:
+          LEETCODE_USERNAME: ${{ inputs.leetcode_user || secrets.LEETCODE_USERNAME || vars.LEETCODE_USERNAME }}
+          HACKERRANK_USERNAME: ${{ inputs.hackerrank_user || secrets.HACKERRANK_USERNAME || vars.HACKERRANK_USERNAME }}
+        run: |
+          python scripts/main.py
+
+      - name: Commit and push updated SVGs
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/leetcode-contribution.svg assets/hackerrank-contribution.svg
+          if git diff --staged --quiet; then
+            echo "No changes detected in contribution heatmaps. Skipping commit."
+          else
+            git commit -m "chore(activity): sync LeetCode and HackerRank contribution graphs [skip ci]"
+            git push
+          fi
