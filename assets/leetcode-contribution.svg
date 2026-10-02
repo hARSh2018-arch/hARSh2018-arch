@@ -70,7 +70,7 @@
   <!-- Header Right -->
   <g transform="translate(742, 24)">
     <text x="0" y="0" class="stats-primary">269 submissions in the last year</text>
-    <text x="0" y="13" class="stats-secondary">Active: 19d · Solved: 31 (17E / 14M) · Rank: #3,622,392</text>
+    <text x="0" y="13" class="stats-secondary">Active: 19d · Solved: 31 (17E / 14M) · Rank: #3,624,777</text>
   </g>
   <!-- Month Labels -->
   <g class="label-text">
@@ -464,11 +464,12 @@
     <rect x="720" y="78" width="10" height="10" fill="#161b22" class="day-cell" data-date="2026-09-29" data-count="0"><title>No submissions on Sep 29, 2026</title></rect>
     <rect x="720" y="91" width="10" height="10" fill="#161b22" class="day-cell" data-date="2026-09-30" data-count="0"><title>No submissions on Sep 30, 2026</title></rect>
     <rect x="720" y="104" width="10" height="10" fill="#161b22" class="day-cell" data-date="2026-10-01" data-count="0"><title>No submissions on Oct 01, 2026</title></rect>
+    <rect x="720" y="117" width="10" height="10" fill="#161b22" class="day-cell" data-date="2026-10-02" data-count="0"><title>No submissions on Oct 02, 2026</title></rect>
   </g>
   <!-- Footer Left: Sync Status -->
   <g transform="translate(18, 171)">
     <circle cx="4" cy="-4" r="3" fill="#ffa116"/>
-    <text x="12" y="0" class="legend-text">Daily sync · Oct 01, 2026</text>
+    <text x="12" y="0" class="legend-text">Daily sync · Oct 02, 2026</text>
   </g>
   <!-- Footer Right: Legend -->
   <g transform="translate(617, 171)">
